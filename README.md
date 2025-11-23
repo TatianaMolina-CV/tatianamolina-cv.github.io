@@ -6,11 +6,11 @@
 
 Phone: +44 7598680567
 
-Location: Greater London Area, UK
+Location: Maidenhead, UK
 
 ## Career highlights  
 I am an Operations Leader with 20 years of experience driving **international growth and business transformation** across software and technology companies.
-Focused on impact that truly matters, I thrive on leading multinational teams and turning **strategic vision into measurable results**. Adept at managing large-scale programmes and PMO to deliver outcomes, I combine hands-on expertise in modern technology with pragmatic ownership of data and analytics. 
+Focused on impact that truly matters, I know to **get things done**. Experienced in leading multinational teams and managing large-scale programmes, I combine hands-on expertise in **modern GTM and workplace technology** with pragmatic ownership of data and analytics. 
 
 I believe in a **people-first approach** and always work to build cultures that embrace innovation, accountability, and execution excellence. I’m also loyal, endlessly curious about my craft, and energised by both mentoring others and learning from those around me.
 
@@ -59,3 +59,7 @@ I believe in a **people-first approach** and always work to build cultures that 
 **Master's in International Affairs (MBA)** from University of Lorraine, France Awarded an exceptional fellowship from the French government September 2005 – June 2006
 
 **Master's in Organisational Management**, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
+
+## FUN FACTS
+
+I lived in four very different countries, speak 5 languages based on 3 different alphabets and love learning new things. I have a good deal of empathy and value the diversity of skills and profiles.
