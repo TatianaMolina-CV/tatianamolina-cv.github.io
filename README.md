@@ -14,6 +14,8 @@ Focused on impact that truly matters, I know how to **get things done**. Experie
 
 I believe in a **people-first approach** and always work to build cultures that embrace innovation, accountability, and execution excellence. I’m also loyal, endlessly curious about my craft, and energised by both mentoring others and learning from those around me.
 
+Finally, I have deep expertise supporting companies undergoing **ownership changes or private equity investment**, with a strong understanding of the required pace of execution and reporting demands.
+
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
 ## Skills:
