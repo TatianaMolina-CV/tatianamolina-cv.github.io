@@ -9,7 +9,7 @@ Phone: +44 7598680567
 Location: Maidenhead, UK
 
 ## Career highlights  
-I am an Operations Leader Operations leader with 20 years of experience building **scalable operations and GTM systems for SaaS and technology companies**. I specialise in practical transformation for high-growth and PE-backed businesses, with particular strengths in revenue operations, data-informed decision making and customer success.
+I am an Operations leader with 20 years of experience building **scalable operations and GTM systems for SaaS and technology companies**. I specialise in practical transformation for high-growth and PE-backed businesses, with particular strengths in revenue operations, data-informed decision making and customer success.
 
 I’ve led multinational teams and built cultures that value innovation, accountability and execution excellence. I’m naturally curious, committed and genuinely enjoy mentoring others as much as learning from them.
 
