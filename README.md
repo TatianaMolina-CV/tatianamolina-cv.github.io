@@ -61,6 +61,6 @@ I also bring deep experience supporting organisations through **ownership change
 
 **Master's in Organisational Management**, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
 
-## FUN FACTS
+## BEYOND WORK
 
 I have lived in four very different countries, speak 5 languages, and love learning new things. I have a good deal of empathy and value the diversity of skills and profiles in a workplace.
