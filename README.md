@@ -17,7 +17,7 @@ I also bring deep experience supporting organisations through **ownership change
 
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
-## Skills and Focus areas:
+## Skills and focus areas:
 - Scalable operations design & digital transformation (including AI adoption)
 - People-first leadership & cross-cultural collaboration
 - Strategic planning and change management
