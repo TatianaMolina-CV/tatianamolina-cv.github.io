@@ -18,17 +18,14 @@ I also bring experience supporting organisations through **ownership changes and
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
 ## Skills and focus areas:
-- Scalable operations design & digital transformation (including AI adoption)
-- People-first leadership & cross-cultural collaboration
-- Strategic planning and change management
-- Business intelligence & data governance: CRM, ERP, BI tools ownership
-- Revenue operations
-- GTM strategies and sales enablement (tools, process, commission structure)
-- Project management office
-- Development of Health score metrics and other data-driven projects
-- Executive communication and stakeholder alignment
-- Expertise in customer success: project delivery, customer onboarding and ongoing support
-- Fluent in French, English, Russian
+- Revenue Operations
+- GTM and Enablement
+- Transformation and PMO
+- Data and BI Governance
+- CRM / ERP / Corporate Systems Ownership
+- Customer Success (onboarding → expansion)
+- Private Equity and Ownership Change
+- French, English & Russian
 
 ## Systems and tools:
 - Salesforce; NetSuite; Salesfolt; Outreach; Cognism; Dealhub; Gong; Planhat; RowerBI; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
