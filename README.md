@@ -11,9 +11,9 @@ Location: Maidenhead, UK
 ## Career highlights  
 I am an Operations leader with 20 years of experience building **scalable operations and GTM systems for SaaS and technology companies**. I specialise in practical transformation for high-growth businesses, with particular strengths in revenue operations, data-informed decision making and customer success.
 
-I’ve led multinational teams and built cultures that value innovation, accountability and execution excellence. I’m naturally curious, committed and genuinely enjoy mentoring others as much as learning from them.
+I’ve led multinational teams and built cultures that value innovation, accountability and execution excellence. 
 
-I also bring deep experience supporting organisations through **ownership changes and private equity investment**, with a solid understanding of the required pace, reporting expectations and cross-functional alignment.
+I also bring experience supporting organisations through **ownership changes and private equity investment**, with a solid understanding of the required pace, reporting expectations and cross-functional alignment.
 
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
@@ -63,4 +63,4 @@ I also bring deep experience supporting organisations through **ownership change
 
 ## BEYOND WORK
 
-I have lived in four very different countries, speak 5 languages, and love learning new things. I have a good deal of empathy and value the diversity of skills and profiles in a workplace.
+I have lived in four very different countries and speak 5 languages. I have a good deal of empathy and value the diversity of skills and profiles in a workplace. I’m naturally curious, committed and genuinely enjoy mentoring others as much as learning from people around me.
