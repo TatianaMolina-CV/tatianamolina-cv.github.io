@@ -20,7 +20,7 @@ I also bring experience supporting organisations through **ownership changes and
 ## Skills and focus areas:
 - Revenue Operations
 - GTM and Enablement
-- Transformation and PMO
+- Business Transformation and PMO
 - Data and BI Governance
 - CRM / ERP / Corporate Systems Ownership
 - Customer Success (onboarding → expansion)
