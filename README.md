@@ -36,7 +36,7 @@ I also bring deep experience supporting organisations through **ownership change
 ## PROFESSIONAL EXPERIENCE
 
 ### VP of Operations; MotorK (June 2024 – May 2025)
-- Led the transformation of a **90-person Business and Customer Operations** organisation across Europe, launching automation and AI-led initiatives that elevated efficiency and collaboration. Delivered **substantial commercial impact** with 40% YoY growth in Implementation and 20% in Training revenues, with a 10% team reduction through smart automation, as well as new **customer-success frameworks and dashboards** that accelerated product adoption and enabled data-driven expansion.
+- Led the transformation of a **90-person Business and Customer Operations** organisation across Europe, launching automation and AI-led initiatives that elevated efficiency and collaboration. Delivered **substantial commercial impact** with 40% YoY growth in Implementation and 20% in Training revenues, supported by a streamlined team structure. Launched new **customer-success practices and dashboards** that accelerated product adoption and enabled data-driven expansion.
 
 ### Head of Business Operations and PMO; MotorK (August 2022 – May 2024)
 - Directed the PMO to deliver **complex enterprise projects** and secure ISO27001 certification, while **reshaping Business Operations and BI teams** to produce actionable insights for senior leadership across CRM, ERP, and BI ecosystems. Redesigned **lead-to-cash and contracting processes** to increase funnel visibility and **lifted closing rates by 5%** in the first three months. 
