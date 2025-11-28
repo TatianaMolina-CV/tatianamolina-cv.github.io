@@ -24,7 +24,7 @@ I also bring deep experience supporting organisations through **ownership change
 - Business intelligence & data governance: CRM, ERP, BI tools ownership
 - Revenue operations
 - GTM strategies and sales enablement (tools, process, commission structure)
-- Project management office (Master's degree by PMI France)
+- Project management office
 - Development of Health score metrics and other data-driven projects
 - Executive communication and stakeholder alignment
 - Expertise in customer success: project delivery, customer onboarding and ongoing support
