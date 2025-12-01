@@ -22,7 +22,7 @@ I also bring experience supporting organisations through **ownership changes and
 - Data and BI Governance
 - CRM / ERP / Corporate Systems Optimisation
 - Customer Success (onboarding → expansion)
-- High-growth and PE-backed Operations Environments
+- High-growth and PE-backed Operating Environments
 - Fluent in French, English & Russian
 
 ## Systems and tools:
