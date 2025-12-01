@@ -4,8 +4,6 @@
 
 [Email](mailto:tatiakam@gmail.com)
 
-Phone: +44 7598680567
-
 Location: Maidenhead, UK
 
 ## Career highlights  
@@ -19,13 +17,13 @@ I also bring experience supporting organisations through **ownership changes and
 
 ## Skills and focus areas:
 - Revenue Operations
-- GTM and Enablement
+- GTM Enablement
 - Business Transformation and PMO
 - Data and BI Governance
-- CRM / ERP / Corporate Systems Ownership
+- CRM / ERP / Corporate Systems Optimisation
 - Customer Success (onboarding → expansion)
-- Private Equity and Ownership Change
-- French, English & Russian
+- High-growth and PE-backed Operations Environments
+- Fluent in French, English & Russian
 
 ## Systems and tools:
 - Salesforce; NetSuite; Salesfolt; Outreach; Cognism; Dealhub; Gong; Planhat; RowerBI; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
