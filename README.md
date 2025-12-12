@@ -26,7 +26,7 @@ I also bring experience supporting organisations through **ownership changes and
 - Fluent in French, English & Russian
 
 ## Systems and tools:
-- Salesforce; NetSuite; Salesfolt; Outreach; Cognism; Dealhub; Gong; Planhat; RowerBI; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
+- Salesforce; NetSuite; Salesloft; Outreach; Cognism; Dealhub; Gong; Planhat; PowerBI; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
   
 ## PROFESSIONAL EXPERIENCE
 
