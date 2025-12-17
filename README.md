@@ -7,9 +7,9 @@
 Location: Maidenhead, UK
 
 ## Career highlights  
-I am an Operations leader with 20 years of experience building **scalable operations and GTM systems for SaaS and technology companies**. I specialise in practical transformation for high-growth businesses, with particular strengths in revenue operations, data-driven operating models, customer success and the corporate tools that support scalable execution (including integrating AI into workflows).
+I am an Operations leader with 20 years of experience building **scalable operations and GTM systems for SaaS and technology companies**. I specialise in practical transformation for high-growth businesses, with particular strengths in data-driven operating models, programme management and customer success frameworks. 
 
-I’ve led multinational teams and built cultures that value innovation, accountability and execution excellence. 
+I have led multinational, cross-functional teams and built operating cultures centred on accountability and execution excellence, **aligning product, sales and partner ecosystems** to drive predictable revenue growth.
 
 I also bring experience supporting organisations through **ownership changes and private equity investment**, with a solid understanding of the required pace, reporting expectations and cross-functional alignment.
 
