@@ -11,7 +11,7 @@ I am an Operations leader with 20 years of experience building **scalable operat
 
 I have led multinational, cross-functional teams and built operating cultures centred on accountability and execution excellence, **aligning product, sales and partner ecosystems** to drive predictable revenue growth.
 
-I also bring experience supporting organisations through **ownership changes and private equity investment**, with a solid understanding of the required pace, reporting expectations and cross-functional alignment.
+I also bring experience supporting organisations through **ownership changes and private equity investment**, nt, with a solid understanding of board-level reporting and the pace required to scale efficiently while maintaining control and transparency.
 
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
