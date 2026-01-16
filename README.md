@@ -13,8 +13,6 @@ I have led multinational, cross-functional teams and built operating cultures ce
 
 I also bring experience supporting organisations through **ownership changes and private equity investment**, nt, with a solid understanding of board-level reporting and the pace required to scale efficiently while maintaining control and transparency.
 
-*Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
-
 ## Skills and focus areas:
 - Revenue Operations
 - GTM Enablement
@@ -26,9 +24,12 @@ I also bring experience supporting organisations through **ownership changes and
 - Fluent in French, English & Russian
 
 ## Systems and tools:
-- Salesforce; NetSuite; Salesloft; Outreach; Cognism; Dealhub; Gong; Planhat; PowerBI; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
+- Salesforce; NetSuite; Salesloft; Outreach; Clay; Cognism; Dealhub; Gong; Planhat; PowerBI; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
   
 ## PROFESSIONAL EXPERIENCE
+
+### Interim Programme Director, Partner Transformation; Saville Assessment (January 2026 - until May 2026)
+- Supporting the CEO in shaping the company’s next phase of international growth, particularly indirect channel strategy.
 
 ### VP of Operations; MotorK (June 2024 – May 2025)
 - Led the transformation of a **90-person Business and Customer Operations** organisation across Europe, launching automation and AI-led initiatives that elevated efficiency and collaboration. Delivered **substantial commercial impact** with 40% YoY growth in Implementation and 20% in Training revenues, supported by a streamlined team structure. Launched new **customer-success practices and dashboards** that accelerated product adoption and enabled data-driven expansion.
